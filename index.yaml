@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  tmplchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-24T03:23:33.980753466+01:00"
+    description: A Helm chart for Kubernetes
+    digest: e3a2bd3d77b033fee25110b28e633914503cc8be41109b42519a8152ed8aff81
+    name: tmplchart
+    type: application
+    urls:
+    - https://mjwojs.github.io/helm-tmpl/tmplchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-24T03:23:33.979917686+01:00"
